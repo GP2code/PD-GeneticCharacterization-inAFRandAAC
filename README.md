@@ -34,7 +34,7 @@ This repository contains all analyses for the manuscript titled ***"Large-scale 
 analyses/ 
 ├── 00_Annotation_AFR_PDexome.ipynb
 ├── 01_GP2_AfricanPD.ipynb
-└── 02_Annotation_AFR_PDexome.ipynb
+└── 02_Characterization of PD genes in All of Us.ipynb
 ```
 
 ---
@@ -47,7 +47,7 @@ analyses/
 |:---------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | `00_Annotation_AFR_PDexome.ipynb` | Annotation of variants identified in GP2 WGS African ancestry cohort and in PD GENEration clinical exomes.                                                                                                   |
 | `01_GP2_AfricanPD.ipynb`          | Analysis of PD genes in GP2 cases and controls of African and African admixed ancestries (release 8). <br/> Includes extracting individuals, recoding VCFs, and evaluating the intronic rs3115534-G variant. |
-| `02_Annotation_AFR_PDexome.ipynb` | Extraction of African/admixed PD cases and controls from All of Us WGS data (release 7), recoding VCFs, and analysis of the intronic *GBA* rs3115534-G variant.                                              |
+| `Characterization of PD genes in All of Us.ipynb` | Extraction of African/admixed PD cases and controls from All of Us WGS data (release 7), recoding VCFs, and analysis of the intronic *GBA* rs3115534-G variant.                                              |
 
 
 > **Note**: For more details on each notebook’s usage, refer to the introduction and documented code sections contained within each respective `.ipynb`.
